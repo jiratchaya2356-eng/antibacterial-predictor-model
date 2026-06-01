@@ -1,2 +1,10 @@
-# antibacterial-predictor-model
-This Web application provides a machine learning–based tool for predicting whether a compound has antibacterial activity using its SMILES representation.
+# Antibacterial Activity Predictor
+
+Predict antibacterial activity from molecular structures using machine learning.
+
+Input:
+- SMILES
+
+Output:
+- Prediction
+- Probability
